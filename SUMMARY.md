@@ -6,7 +6,7 @@
 * [토큰 서비스의 개념](tokens/README.md)
   * [서비스 요약](tokens/service\_summary.md)
   * [코인 가치 및 서비스 수수료](tokens/value\_fee.md)
-  * [양도 및 교환](tokens/transfer\_swap.md)
+  * [전송 및 교환](tokens/transfer\_swap.md)
   * [발행 및 유통](tokens/issuance\_distribution.md)
   * [정부 및 지자체 협력](tokens/government.md)
   * [필리핀 국외 코인 사용](tokens/global\_transaction.md)
