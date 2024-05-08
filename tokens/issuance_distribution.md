@@ -7,7 +7,7 @@ description: Coin issuance and distribution
 CPESO는 Vaultree Inc.와 Vaultree CPESO의 합의에 의해 발행이 되고 Vaultree CPESO에 의해서 Vaultree C2FP 기반의 금융 서비스에서 유통 됩니다. 발행되어 유통되고 있는 CPESO 코인은 Vaultree CPESO에 의해 소각 될 수 있습니다. Vaultree CPESO는 생태계에 유통되고 있는 CPESO를 활용한 다양한 온/오프라인 서비스를 생태계 참여자들에게 제공하고 필요에 따라서는 서비스 수수료를 생태계 참여자 또는 연계된 외부 시스템, 서비스에 부과할 수 있습니다. Vaultree CPESO에 의한 수익은 Vaultree C2FP의 개발과 CPESO 금융 서비스의 개발을 위해 일부 사용 됩니다. 수익 중 일부는 다양한 방법으로 사회에 환원됩니다.
 
 \
-CPESO는 PESO와 동일한 가치를 가지게 Pegged 되어있습니다. 따라서 CPESO 코인의 가치의 변동성은 거의 없어 CPESO 코인 자체로는 수익이나 손실을 발생시키지 않기때문에 투자의 대상이 되지 않는다. 또한 **CPESO는 ICO, STO 등과 같은 자금 조달이 목적인 행위를 하지 않습니다.**&#x20;
+CPESO는 PESO와 동일한 가치를 가지게 Pegged 되어있습니다. 따라서 CPESO 코인가치의 변동성은 거의 없어 CPESO 코인 자체로 수익이나 손실을 발생 하지 않아 투자의 대상이 되지 않습니다. 또한 **CPESO는 ICO, STO 등과 같은 자금 조달이 목적인 행위를 하지 않습니다.**&#x20;
 
 
 
