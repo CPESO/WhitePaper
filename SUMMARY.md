@@ -3,6 +3,7 @@
 * [배경 및 소개](README.md)
   * [배경](abstract/background.md)
   * [소개](abstract/introduction.md)
+  * [면책조항](abstract/undefined.md)
 * [토큰 서비스의 개념](tokens/README.md)
   * [서비스 요약](tokens/service\_summary.md)
   * [코인 가치 및 서비스 수수료](tokens/value\_fee.md)
