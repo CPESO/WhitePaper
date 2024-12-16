@@ -22,6 +22,6 @@ description: Vision and Goals
 
 
 
-Vaultree C2FP를 활용하여 CPESO를 국경 없는 글로벌 디지털 자산으로 사용할 수 있게하고 전세계 누구나와 금융활동을 할 수 있게 할 것입니다.
+Donkote C2FP를 활용하여 CPESO를 국경 없는 글로벌 디지털 자산으로 사용할 수 있게하고 전세계 누구나와 금융활동을 할 수 있게 할 것입니다.
 
 \
